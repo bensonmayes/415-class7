@@ -7,9 +7,12 @@ layout: "page.njk"
 
 This is a page that I made with eleventy. Or is it 11ty? I don't know.
 
-## Features!
+## Pros!
 
 - fast
 - safe
-- pretty
-- weirdly complicated
+- pretty neat
+
+## Cons
+- weirdly complicated?
+- too many features?
