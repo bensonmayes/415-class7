@@ -6,6 +6,14 @@
      <title>{{ title }}</title>
 </head>
 <body>
+     <header>
+     {% include 'header.html'%}
+     </header>
      {{ content | safe }}
+     {%if title == "Contact"%}
+          {%include 'form.html'%}
+     <footer>
+          {% include 'header.html'%}
+     </footer>
 </body>
 </html>
