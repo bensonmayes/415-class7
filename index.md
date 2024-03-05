@@ -3,7 +3,7 @@ title: Home Page
 layout: "page.njk"
 ---
 
-# This is my site title
+# This is Ben's
 
 This is a page that I made with eleventy. Or is it 11ty? I don't know.
 
