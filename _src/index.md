@@ -3,9 +3,9 @@ title: Home Page
 layout: "page.njk"
 ---
 
-# This is Ben's
+# Honkai Star Rail
 
-This is a page that I made with eleventy. Or is it 11ty? I don't know.
+This is a sneak peak into the Game Honkai Star Rail.
 
 ## Pros!
 
