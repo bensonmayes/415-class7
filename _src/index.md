@@ -9,10 +9,10 @@ This is a sneak peak into the Game Honkai Star Rail.
 
 ## Pros!
 
-- fast
-- safe
-- pretty neat
+- Super Fun Turn-based Combat
+- Interesting story
+- Very cool characters
 
 ## Cons
-- weirdly complicated?
-- too many features?
+- might need to have a fat wallet
+- too good of a game?
