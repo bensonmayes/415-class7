@@ -9,12 +9,12 @@ This is a sneak peak into the Game Honkai Star Rail.
 
 ## Pros!
 
-- Super Fun Turn-based Combat
-- Interesting story
-- Very cool characters
+### Super Fun Turn-based Combat
+### Interesting story
+### Very cool characters
 
 ## Cons
-- might need to have a fat wallet
-- too good of a game?
+### Might need to have a fat wallet
+### Too good of a game?
 
 <img src="../images/Logo.png" alt="Logo">
