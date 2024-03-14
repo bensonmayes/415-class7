@@ -1,3 +1,20 @@
 body {
      background-color: lightgreen;
+     font-size: 1.5em;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     margin: 0;
+
+
+}
+footer {
+     background-color: aliceblue;
+     padding: 0.7vw;
+}
+header {
+     background-color: aliceblue;
+     padding: 0.7vw;
+}
+img {
+     width: 35%;
+     padding: 4vw;
 }

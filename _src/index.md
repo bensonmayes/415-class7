@@ -16,3 +16,5 @@ This is a sneak peak into the Game Honkai Star Rail.
 ## Cons
 - might need to have a fat wallet
 - too good of a game?
+
+<img src="../images/Logo.png" alt="Logo">

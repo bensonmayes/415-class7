@@ -11,3 +11,5 @@ layout: "page.njk"
 Hop aboard the Astral Express and experience the galaxy's infinite wonders filled with adventure and thrills.
 Players will meet new companions across various worlds and maybe even run into some familiar faces. Overcome the struggles together caused by Stellaron and unravel the hidden truths behind it! May this journey lead us starward!
 
+
+<img src="../images/Seele.png" alt="Seele">
